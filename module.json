@@ -1,0 +1,28 @@
+{
+    "name": "d666_insmv",
+    "title": "d666 pour In Nomine Satanis / Magna Veritas (INS/MV)",
+    "description": "Une macro permettant de lancer un d666 et affichant un gif amusant en cas de 111, 333, 421 ou 666.",
+    "version": "1.0.1",
+    "author": "Agneau Secret (sur une demande de greuh)",
+    "minimumCoreVersion": "0.8.4",
+    "compatibleCoreVersion": "9",
+    "packs": [
+
+        {
+            "name": "module-macros",
+            "label": "Module Macros",
+            "path": "./packs/macros.db",
+            "entity": "Macro",
+            "type": "Macro"
+        }
+    ],
+    "dependencies":
+        [
+          {
+            "name": "dice-so-nice",
+            "manifest": "https://gitlab.com/riccisi/foundryvtt-dice-so-nice/raw/2.0.3/module/module.json"
+          }
+        ],
+    "manifest": "https://gitlab.com/f3075/d666/-/blob/main/module/module.json",
+    "download": "https://gitlab.com/f3075/d666/-/archive/main/d666-main.zip"
+  }
