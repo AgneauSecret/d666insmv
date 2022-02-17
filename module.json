@@ -23,6 +23,6 @@
             "manifest": "https://gitlab.com/riccisi/foundryvtt-dice-so-nice/raw/2.0.3/module/module.json"
           }
         ],
-    "manifest": "https://gitlab.com/f3075/d666/-/blob/main/module/module.json",
-    "download": "https://gitlab.com/f3075/d666/-/archive/main/d666-main.zip"
+    "manifest": "https://github.com/AgneauSecret/d666_insmv/blob/main/module.json",
+    "download": "https://github.com/AgneauSecret/d666_insmv/blob/main/d666_insmv.zip"
   }
