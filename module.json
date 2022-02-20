@@ -5,24 +5,5 @@
     "version": "0.1",
     "author": "Agneau Secret (sur une demande de greuh)",
     "minimumCoreVersion": "0.8.4",
-    "compatibleCoreVersion": "9.235",
-    "packs": [
-
-        {
-            "name": "module-macros",
-            "label": "Module Macros",
-            "path": "./packs/macros.db",
-            "entity": "Macro",
-            "type": "Macro"
-        }
-    ],
-    "dependencies":
-        [
-          {
-            "name": "dice-so-nice",
-            "manifest": "https://gitlab.com/riccisi/foundryvtt-dice-so-nice/raw/2.0.3/module/module.json"
-          }
-        ],
-    "manifest": "https://github.com/AgneauSecret/d666_insmv/blob/main/module.json",
-    "download": "https://github.com/AgneauSecret/d666_insmv/blob/main/d666_insmv.zip"
+    "compatibleCoreVersion": "9.235"    
   }
