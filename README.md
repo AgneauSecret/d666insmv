@@ -1,2 +1,2 @@
-# d666_insmv
+# d666insmv
 Dices system for In Nomine Satanis / Magna Veritas
